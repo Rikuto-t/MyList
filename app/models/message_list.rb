@@ -1,0 +1,2 @@
+class MessageList < ApplicationRecord
+end
